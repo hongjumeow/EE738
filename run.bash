@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python train.py --save_path ./checkpoint/conformer_lr --initial_model checkpoint/conformer_lr/model00024.pt --use_greedy_decoder
