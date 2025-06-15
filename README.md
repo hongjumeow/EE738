@@ -1,2 +1,2 @@
-# EE738ASR
-25S EE738
+# EE738
+Speech Recognition for Korean Language
